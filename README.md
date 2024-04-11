@@ -10,7 +10,7 @@ Aplikasi ini adalah scraper sederhana yang dibuat menggunakan Python untuk menda
 2. Pastikan Chrome Driver telah diunduh dan ditempatkan di dalam direktori `./driver/`. Jika belum, Anda dapat mengunduhnya [di sini](https://chromedriver.chromium.org/downloads).
 3. Instal dependensi Python dengan menjalankan perintah:
    ```
-   pip install pandas bs4 selenium
+   pip install pandas bs4 selenium requests
    ```
 
 ## Penggunaan
