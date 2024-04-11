@@ -1,7 +1,6 @@
-```
+
 # PDB Scraper
 
-![License](https://img.shields.io/badge/license-GPLv3-blue)
 
 Aplikasi ini adalah scraper sederhana yang dibuat menggunakan Python untuk mendapatkan data PDB (Protein Data Bank) dari situs web RCSB PDB. Data yang diambil meliputi informasi seperti deskripsi, klasifikasi, organisme, sistem ekspresi, mutasi, tanggal penyetoran dan pelepasan, serta penulis penyetoran.
 
