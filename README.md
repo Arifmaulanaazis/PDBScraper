@@ -35,4 +35,3 @@ Anda dipersilakan untuk berkontribusi pada proyek ini. Silakan buat pull request
 Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya melalui surel di [titandigitalsoft@gmail.com](mailto:titandigitalsoft@gmail.com) atau melalui [profil GitHub saya](https://github.com/Arifmaulanaazis).
 
 Terima kasih telah menggunakan PDB Scraper!
-``` 
